@@ -2,7 +2,7 @@
 Aplikasi E-Arsip CodeIgniter
 ###################
 
-Aplikasi ini saya gunakan untuk sertifikasi BNSP.
+Aplikasi ini saya gunakan untuk sertifikasi BNSP Polinema.
 
 ###################
 Aplikasi dibuat menggunakan
@@ -11,3 +11,4 @@ Aplikasi dibuat menggunakan
 2. PHP
 3. Bootstrap
 4. MySQL
+5. Admin LTE 2 template
