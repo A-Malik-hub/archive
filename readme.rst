@@ -11,4 +11,4 @@ Aplikasi dibuat menggunakan
 2. PHP
 3. Bootstrap
 4. MySQL
-5. Admin LTE 2 template
+5. Admin LTE
